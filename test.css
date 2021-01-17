@@ -1,0 +1,10 @@
+.clas{
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	border: 5px yellow;
+	color: yellow;
+}
+.bad{
+	background-color: black;
+}
